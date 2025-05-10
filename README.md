@@ -1,4 +1,4 @@
-# TSBOT
+# Tsbot
 
 # Installation
 
